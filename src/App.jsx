@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import CtaBox from "./components/CtaBox";
-import Info from "./components/info";
+import Info from "./components/Info";
 import Service from "./Pages/Service";
 import Contact from "./Pages/Contact";
 import Footer from "./Pages/Footer";
